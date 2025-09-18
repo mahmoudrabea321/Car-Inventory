@@ -86,10 +86,6 @@ You’re free to use, modify, and share it.
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
 
-```
 
----
 
-⚡ Do you want me to also prepare a **generic README template** for all your future repos (so you just replace project name + description), or should I keep writing **custom ones for each repo**?
-```
 
