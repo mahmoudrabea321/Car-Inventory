@@ -37,11 +37,12 @@ This project helps users manage and track cars in an inventory system with an ea
    cd car-inventory
 ````
 
-2. **Install dependencies**
+2. ## 🚀 Live Demo
+🔗 [View on Vercel](https://car-inventory.pages.dev/)
 
-   ```bash
-   npm install
-   ```
+
+---
+
 
 3. **Run the app locally**
 
@@ -85,6 +86,7 @@ You’re free to use, modify, and share it.
 ## ✨ Author
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
+
 
 
 
