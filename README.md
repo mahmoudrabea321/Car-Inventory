@@ -63,13 +63,6 @@ car-inventory/
 │   │-- main.jsx
 │-- package.json
 │-- README.md
-```
-
----
-
-## 📸 Screenshots
-
-*Add screenshots of your Car Inventory App UI here.*
 
 ---
 
@@ -83,6 +76,7 @@ You’re free to use, modify, and share it.
 ## ✨ Author
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
+
 
 
 
